@@ -1,1 +1,3 @@
-teste
+function read(){
+ console.log('.')
+}
